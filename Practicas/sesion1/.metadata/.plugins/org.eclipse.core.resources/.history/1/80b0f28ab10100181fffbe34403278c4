@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package sesion1.plane.ui;
+
+/**
+ * @author UO263907
+ *
+ */
+public class Application {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

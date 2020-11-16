@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package sesion1.plane.ui;
+
+import sesion1.plane.model.Person;
+
+/**
+ * @author UO263907
+ *
+ */
+public class Application {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Person pilot = new Person("pepe",18);
+	}
+
+}
